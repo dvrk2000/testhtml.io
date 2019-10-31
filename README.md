@@ -27,9 +27,9 @@ We will address this problem by making the millions of people without healthcare
 
 &nbsp;
 ## **Research Questions**
-How effective have current policies been in mitigating the gap in those with insurance and those without?
+* How effective have current policies been in mitigating the gap in those with insurance and those without?
 
-How can statistics in health insurance show the inequalities that occur throughout the U.S.?
+* How can statistics in health insurance show the inequalities that occur throughout the U.S.?
 
 &nbsp;
 ## **Possible data sets**
