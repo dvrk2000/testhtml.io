@@ -13,16 +13,16 @@ Bryanna Grant-Yoshimura
 
 ## **Introduction**
 
-#### Problem Situation
+### Problem Situation
 Currently in the United States, approximately 27.4 million people are without healthcare insurance [[1]](#References). The U.S. healthcare system has failed to insure millions of people, many of which cannot afford to pay for healthcare out-of-pocket. There have already been policies implemented in order to increase healthcare coverage across the board, which have partially relieved the gap in those who have healthcare and those who don’t [[1]](#References). However, there are ethical issues when considering the groups of people that struggle to get health insurance in the U.S.
 
-#### What is the problem
+### What is the problem
 There are about 27.4 million people that do not have health insurance. Out of these people, many of them are a part of groups that have been perpetually discriminated against within the U.S. as an institution. This forces continued inequality across different populations in the U.S., and healthcare should be seen as a deserved right to all. When we don’t think everyone should have a form of healthcare, then we create not just gaps in having healthcare, but also gaps in the overall health of groups of people.
 
-#### Why does it matter
+### Why does it matter
 The proportion of people without insurance in the U.S. is about 8%. While this is a small percentage of people, there is an ethical duty in ensuring equity among groups of people. This is especially concerning because people without health insurance may avoid taking care of themselves or their family because they can’t pay for the cost of healthcare. Making sure people are healthy is a priority for many countries that are similar to the U.S., yet we fall short when it comes to peoples’ health and there are no excuses for falling behind [[4]](#References).
 
-#### How will it be addressed
+### How will it be addressed
 We will address this problem by making the millions of people without healthcare more visible. The number 27.4 million is small when compared to the entire U.S. population of about 330 million people [[5]](#References). We alone cannot solve all of the problems that occur within the U.S. healthcare system, but if we are able to put focus on how many individuals don’t have the means to ensure their health, then we can start a conversation on how to start getting people insurance.
 
 &nbsp;
