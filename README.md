@@ -1,6 +1,6 @@
 # Health Insurance Disparities in the U.S.
 
-## Project: HI-Project
+### Project: HI-Project
 Info-201: Technical Foundations of Informatics  
 The Information School  
 University of Washington  
@@ -13,7 +13,7 @@ Bryanna Grant-Yoshimura
 
 ## Introduction
 
-**Problem Situation:**  
+### Problem Situation:
 Currently in the United States, approximately 27.4 million people are without healthcare insurance [1]. The U.S. healthcare system has failed to insure millions of people, many of which cannot afford to pay for healthcare out-of-pocket. There have already been policies implemented in order to increase healthcare coverage across the board, which have partially relieved the gap in those who have healthcare and those who don’t [1]. However, there are ethical issues when considering the groups of people that struggle to get health insurance in the U.S.
 
 \
