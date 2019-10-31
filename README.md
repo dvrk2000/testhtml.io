@@ -35,7 +35,7 @@ How can statistics in health insurance show the inequalities that occur througho
 ## **Possible data sets**
 #### * Health Insurance Coverage of the Total Population: 2017  
 
-Short description: The health coverage topic is based on American Community Survey (ACS), there are six types of insurance coverage including employer, non-group, medicaid, medicare, other public and uninsured which are grouped by States in 2017. The result showing the percentage of each type in different State and summarise the total of each State to present the percentage of United States.
+```Short description:``` The health coverage topic is based on American Community Survey (ACS), there are six types of insurance coverage including employer, non-group, medicaid, medicare, other public and uninsured which are grouped by States in 2017. The result showing the percentage of each type in different State and summarise the total of each State to present the percentage of United States.
 
 Number of observations: 56  
 Number of attributes: 6
