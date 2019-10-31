@@ -23,7 +23,7 @@ There are about 27.4 million people that do not have health insurance. Out of th
 The proportion of people without insurance in the U.S. is about 8%. While this is a small percentage of people, there is an ethical duty in ensuring equity among groups of people. This is especially concerning because people without health insurance may avoid taking care of themselves or their family because they can’t pay for the cost of healthcare. Making sure people are healthy is a priority for many countries that are similar to the U.S., yet we fall short when it comes to peoples’ health and there are no excuses for falling behind [4].
 
 ### How will it be addressed
-We will address this problem by making the millions of people without healthcare more visible. The number 27.4 million is small when compared to the entire U.S. population of about 330 million people [5]. We alone cannot solve all of the problems that occur within the U.S. healthcare system, but if we are able to put focus on how many individuals don’t have the means to ensure their health, then we can start a conversation on how to start getting people insurance.
+We will address this problem by making the millions of people without healthcare more visible. The number 27.4 million is small when compared to the entire U.S. population of about 330 million people [5](References). We alone cannot solve all of the problems that occur within the U.S. healthcare system, but if we are able to put focus on how many individuals don’t have the means to ensure their health, then we can start a conversation on how to start getting people insurance.
 
 &nbsp;
 ## **Research Questions**
