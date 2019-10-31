@@ -54,6 +54,7 @@ Number of attributes: 22
 Link: https://www2.census.gov/programs-surveys/demo/tables/p60/267/table2.x
 
 &nbsp;
+&nbsp;
 
 ## **Information Visualizations**
 There are approximately 27.4 million people are without healthcare insurance and from this visualization, we can easily identify the percentage without health insurance by the lightness of the states.  We observe a trend that the southern areas like Georgia, Florida, Mississippi, and Texas have a large population who are not covered. Especially in Texas, the general uncover rate is 8% in the US but Texas has more than 12% uncovered population. We want to find out what are the reasons and how to solve this.  
