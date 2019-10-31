@@ -1,5 +1,5 @@
 # Health Insurance Disparities in the U.S.
---
+---
 ## Project: HI-Project
 
 David Wang  
