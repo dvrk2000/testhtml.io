@@ -33,28 +33,24 @@ How can statistics in health insurance show the inequalities that occur througho
 
 &nbsp;
 ## **Possible data sets**
-**Health Insurance Coverage of the Total Population: 2017**
-
+**Health Insurance Coverage of the Total Population: 2017**  
 Short description: The health coverage topic is based on American Community Survey (ACS), there are six types of insurance coverage including employer, non-group, medicaid, medicare, other public and uninsured which are grouped by States in 2017. The result showing the percentage of each type in different State and summarise the total of each State to present the percentage of United States.
 
-Number of observations: 56
-
+Number of observations: 56  
 Number of attributes: 6
 
 Link: https://www.kff.org/other/state-indicator/total-population/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
-
 &nbsp;
-**Health Insurance Coverage by Age: 2017 and 2018**
 
+**Health Insurance Coverage by Age: 2017 and 2018**  
 Short description: The health insurance converge is based on American Community Survey(ACS), there are two main health insurance (private and public) and uninsured which are grouped by 8 different age groups in 2017 and 2018. The result showing the percentage of each year in different group and the percentage change from 2017 to 2018.
 
-Number of observations: 8
-
+Number of observations: 8  
 Number of attributes: 22
 
 Link: https://www2.census.gov/programs-surveys/demo/tables/p60/267/table2.x
-
 &nbsp;
+
 ## **Information Visualizations**
 There are approximately 27.4 million people are without healthcare insurance and from this visualization, we can easily identify the percentage without health insurance by the lightness of the states.  We observe a trend that the southern areas like Georgia, Florida, Mississippi, and Texas have a large population who are not covered. Especially in Texas, the general uncover rate is 8% in the US but Texas has more than 12% uncovered population. We want to find out what are the reasons and how to solve this.  
 
