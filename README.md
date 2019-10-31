@@ -57,7 +57,8 @@ There are approximately 27.4 million people are without healthcare insurance and
 This image presents how health insurance programs change over from 1997 to 2017 with difference policies implemented. For curves 1, 3, 5, they are the policies that are in processing steps. For curves 2 and 4, they represent changes to survey instruments like follow-up verification questions. It is obvious that with different policies adaptation, the overall uninsurance rate is decreasing.  
 
 ### Team Coordination
-Our team will be meeting every week on Thursdays from 5:30 p.m. to 7:30 p.m. Our goal is to create a meaningful project that will hopefully spur a conversation on the healthcare disparities that people in the U.S. currently face. We will all be contributing equally to the various tasks needed to complete this project. We will all help each other in creating the code to visualize our data sets and with explaining why this information matters. We will communicate through a group message and provide feedback through this text chain and in person at our meetings. We will frequently communicate to ensure that everyone understands their duties.
+Our team will be meeting every week on Thursdays from 5:30 p.m. to 7:30 p.m. Our goal is to create a meaningful project that will hopefully spur a conversation on the healthcare disparities that people in the U.S. currently face. We will all be contributing equally to the various tasks needed to complete this project. We will all help each other in creating the code to visualize our data sets and with explaining why this information matters. We will communicate through a group message and provide feedback through this text chain and in person at our meetings. We will frequently communicate to ensure that everyone understands their duties.  
+
 
 ### References
 [1] Garfield, R., Orgera, K., and Damico, A. (January 25, 2019). “The Uninsured and the ACA: A
