@@ -1,12 +1,12 @@
 # Health Insurance Disparities in the U.S.
 
 ### Project: HI-Project
-Info-201: Technical Foundations of Informatics  
+> Info-201: Technical Foundations of Informatics  
 The Information School  
 University of Washington  
 Autumn 2019
-
-David Wang  
+>
+> David Wang  
 Thomas Wu  
 Viviannie Huang  
 Bryanna Grant-Yoshimura  
