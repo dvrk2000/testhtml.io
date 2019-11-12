@@ -1,5 +1,9 @@
 # Health Insurance Disparities in the U.S.
+<<<<<<< Updated upstream
 哈哈哈 真牛逼
+=======
+牛逼！！！！
+>>>>>>> Stashed changes
 ### Project: HI-Project
 Info-201: Technical Foundations of Informatics  
 The Information School  
